@@ -1,4 +1,4 @@
-# Keylogger Project
+# Keylogger Project with C++
 
 This is a full-coverage keylogger written in C++ for Windows. It logs standard keyboard and mouse presses and writes them to a file called `log.txt`. Each key press is recorded along with a human-readable label, making it very practical to interpret the log.
 
