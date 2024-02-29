@@ -143,7 +143,7 @@ int Save(int _key, char *file) {
             break;
         case WM_DEADCHAR: fprintf(OUTPUT_FILE, "[DEAD CHARACTER]"); // Dead character
             break;
-        case VK_OEM_1: fprintf(OUTPUT_FILE, ";"); // ;: (US standard)
+        case VK_OEM_1: fprintf(OUTPUT_FILE, ";"); // ;:
             break;
         case VK_OEM_PLUS: fprintf(OUTPUT_FILE, "="); // =+
             break;
