@@ -1,0 +1,3 @@
+Read: Empty/delete this file before use.
+This file is where the recorded keys will be outputted.
+If this file doesn't exist, it will be created automatically.
