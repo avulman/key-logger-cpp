@@ -73,7 +73,7 @@ The keylogger uses the following labels for different types of keys:
 
 This keylogger is provided for educational and practice purposes of scripting with C++ only. Be aware of the legal implications of using such software. Respect the privacy and rights of others, and ensure that you have appropriate authorization before using this software. Feel free to test on your machine when you are the sole user. Never run this program on your device or another device when the user is unaware and/or doesn't condone it.
 
-# Prevention
+## Prevention
 
 Keyloggers can be a serious threat to your privacy and security. Here are some steps you can take to help prevent becoming a victim of keyloggers:
 
